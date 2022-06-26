@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adam-aizane&label=Profile%20views&color=0e75b6&style=flat" alt="adam-aizane" /> </p>
 
-- 🔭 I’m currently studying **economic studies**
-
-- 🌱 I’m currently learning **html & css**
+- 🔭 I’m studying **economics**
+- I’m currently learning **html & css**
 - I'm half 🇬🇧&🇲🇦 ,the best of both worlds 😆
+- Work out addict 🏋️‍♂️ and artist 🎨 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
